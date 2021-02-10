@@ -22,7 +22,7 @@ class Solution {
 	Node pointer = head;
  
 	// Copy every node
-  // Insert to list
+        // Insert to list
 	while (pointer != null) {
 		Node copy = new Node(pointer.val);
 		copy.next = pointer.next;
