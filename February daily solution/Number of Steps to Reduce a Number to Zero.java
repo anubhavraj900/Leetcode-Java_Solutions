@@ -1,4 +1,4 @@
-// solution 1
+// Solution 1
 
 class Solution {
     public int numberOfSteps (int num) {
@@ -18,7 +18,7 @@ class Solution {
     }
 }
 
-// solution 2
+// Solution 2
 
 class Solution {
     public int numberOfSteps (int num) {
